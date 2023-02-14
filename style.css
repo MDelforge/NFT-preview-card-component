@@ -59,8 +59,8 @@ body{
 
 .view-vector {
     position: absolute;
-    left: 50%;
     top: 50%;
+    left: 50%;
     transform: translate(-50%, -50%);
     display: none;
     }   
@@ -89,7 +89,7 @@ body{
 .card p{
     font-weight: 300;
     color: hsl(217, 29%, 62%);
-    line-height: 1.65;
+    line-height: 1.6;
     font-size: 18px;
     }
 
